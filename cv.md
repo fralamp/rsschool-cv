@@ -16,7 +16,7 @@
 
 ### __About Me__ 
 
-I'm 27 years old, and i working in a boring place. I think it's time to change my life. 
+I'm 27 years old, and i working in the boring place. I think it's time to change my life. 
 
 ---
 
@@ -25,9 +25,9 @@ I'm 27 years old, and i working in a boring place. I think it's time to change m
 + HTML (pug, BEM)
 + CSS (SASS)
 + JS (Vanilla)
-+ Git
-+ NPM
-+ Webpack
++ Git (a litle bit)
++ NPM 
++ Webpack (a litlle bit)
 
 ---
 
