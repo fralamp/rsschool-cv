@@ -25,9 +25,9 @@ I'm 27 years old, and i working in the boring place. I think it's time to change
 + HTML (pug, BEM)
 + CSS (SASS)
 + JS (Vanilla)
-+ Git (a litle bit)
++ Git (a little bit)
 + NPM 
-+ Webpack (a litlle bit)
++ Webpack (a little bit)
 
 ---
 
