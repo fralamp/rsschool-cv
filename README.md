@@ -1,1 +1,1 @@
-[RSSCHOOL-CV](https://fralamp.github.io/rsschool-cv/cv)
+[RSSCHOOL-CV](https://fralamp.github.io/rsschool-cv/)
