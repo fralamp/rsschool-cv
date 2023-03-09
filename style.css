@@ -1,0 +1,23 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+body {
+    font-size: 62.5%;
+}
+
+.cv__block-img{
+    margin: 50px auto 200px 50px;
+}
+
+.cv__profile-img{
+    display: block;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    object-fit: cover;
+}
